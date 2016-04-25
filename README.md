@@ -1,7 +1,7 @@
 # francetv zoom Utils Slugify with UTest #
 
-This utils methods is used to slugify text.
-Most of tracking data identifier need to be generated through this method to remove accentuate and others non-alphanumeric chararacters.
+This utils method is used to slugify text.
+Most of tracking data identifier need to be generated through this method to remove accentuated and others non-alphanumeric chararacters.
 
 #### Example : ####
 
