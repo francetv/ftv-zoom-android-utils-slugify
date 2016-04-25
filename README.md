@@ -3,7 +3,7 @@
 This utils methods is used to slugify text.
 Most of tracking data identifier need to be generated through this method to remove accentuate and others non-alphanumeric chararacters.
 
-Example : 
+#### Example : ####
 
 "on n'est pas couché !" -> "on-n-est-pas-couche"
 
