@@ -7,11 +7,6 @@ Example :
 
 "on n'est pas couché !" -> "on-n-est-pas-couche"
 
-
-#### Copy files in your project ####
-
-From /lib directory, copy ZoomLoaderView.java and img_loader_mask.png in your project java package and resources /drawable-xhdmi directory.
-
 #### Utils Java class ####
 
 ```java
